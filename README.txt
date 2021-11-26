@@ -1,0 +1,1 @@
+Pythonilla kirjoitettu käyttöliittymä oppilasdatasovellukseen, backendinä toimii MySQL-tietokanta
